@@ -9,6 +9,10 @@ venv/
 env/
 ENV/
 
+# uv local cache
+.uv/
+uv.lock
+
 # Packaging / build artifacts
 build/
 dist/
